@@ -1,0 +1,9 @@
+The sample data files in this repository (pumpfun-launch-sample-20261030-20261105.csv.gz and SHA256SUMS)
+are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Attribution: "pump.fun launch data sample by Avasis (avasis.ai)".
+
+stats.py is released under the MIT licence.
+
+The full dataset, daily files and API at avasis.ai are NOT covered by this licence; they are licensed separately for
+internal use and research. Enterprise, resale or redistribution: abhay@avasis.ai.
